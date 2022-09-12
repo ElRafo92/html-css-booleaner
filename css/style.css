@@ -24,9 +24,15 @@ header{
     margin-top: 10px;
     font-size: 20px;
     font-weight: bolder;
+    margin-bottom: 20px;
 }
 
 a{
     text-decoration: none;
     color: #20A9E5;
+}
+
+/*creazione prima sezione immagini*/
+#diritti{
+    font-weight: bold;
 }
