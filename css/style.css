@@ -8,6 +8,7 @@ header{
     background-color: #4EA0FF;
     height: 180px;
     position: relative;
+    margin-bottom: 25px;
 }
 
 #logo{
@@ -15,4 +16,17 @@ header{
     position: relative;
     position: absolute;
     bottom: 20px;
+}
+
+/*creazione titolo body*/
+#scritto{
+    color: #808080;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+a{
+    text-decoration: none;
+    color: #20A9E5;
 }
