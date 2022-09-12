@@ -65,5 +65,32 @@ td, th{
 /*secondo paragrafo*/
 p{
     margin-bottom: 50px;
+}
 
+/*creazione footer*/
+#interessi{
+    color: #808080;
+    margin-bottom: 10px;
+}
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+    margin-bottom: 15px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 22px;
+    font-weight: bolder;
 }
