@@ -42,3 +42,13 @@ a{
 #paragrafo, #lista{
     margin-bottom: 20px;
 }
+
+/*tabella*/
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.odd{
+    background-color: #B1E5F2;
+}
