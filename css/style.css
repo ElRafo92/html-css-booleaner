@@ -61,3 +61,9 @@ td, th{
     width: 30%;
     text-align: left;
 }
+
+/*secondo paragrafo*/
+p{
+    margin-bottom: 50px;
+
+}
