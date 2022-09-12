@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+
+/*creazione header*/
+header{
+    background-image: url(../img/pattern.png);
+    background-color: #4EA0FF;
+    height: 180px;
+    position: relative;
+}
+
+#logo{
+    width: 250px;
+    position: relative;
+    position: absolute;
+    bottom: 20px;
+}
