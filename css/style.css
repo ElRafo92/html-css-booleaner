@@ -52,3 +52,12 @@ thead{
 .odd{
     background-color: #B1E5F2;
 }
+
+table{
+    margin-bottom: 20px;
+}
+
+td, th{
+    width: 30%;
+    text-align: left;
+}
