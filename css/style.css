@@ -35,4 +35,10 @@ a{
 /*creazione prima sezione immagini*/
 #diritti{
     font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/*paragrafo e lista*/
+#paragrafo, #lista{
+    margin-bottom: 20px;
 }
